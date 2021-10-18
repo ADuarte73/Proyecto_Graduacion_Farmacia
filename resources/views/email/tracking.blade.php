@@ -1,0 +1,1 @@
+<h1>Se registro un nuevo pedido. El número de Tracking para seguimiento es: {{ session('tracking') }}</h1>

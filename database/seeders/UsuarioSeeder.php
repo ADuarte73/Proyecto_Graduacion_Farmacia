@@ -17,7 +17,7 @@ class UsuarioSeeder extends Seeder
         $usuarios = [[
             'id' => 1,
             'name' => 'admin',
-            'email' => 'admin@funkostore.com',
+            'email' => 'admin@farmaciasanjose.com.gt',
             'password' => 'admin123.'
         ],
         ];

@@ -5,7 +5,7 @@
         <div class="page-title">
         <div class="container">
           <div class="column">
-            <h1>Nuestros productos</h1>
+            <h1>Nuestros productos Populares</h1>
           </div>
           <div class="column">
             <ul class="breadcrumbs">

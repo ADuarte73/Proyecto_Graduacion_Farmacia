@@ -12,7 +12,7 @@
           </div>
           <div class="column">
             <ul class="breadcrumbs">
-              <li><a href="index.html">Inicio</a>
+              <li><a href="{{ url('home') }}">Inicio</a>
               </li>
               <li class="separator">&nbsp;</li>
               <li>Carrito</li>

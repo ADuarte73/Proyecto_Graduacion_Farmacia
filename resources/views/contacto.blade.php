@@ -10,7 +10,7 @@
                 <div class="column">
                     <ul class="breadcrumbs">
                       <li>
-                        <a href="{{ route('home') }}">Home</a>
+                        <a href="{{ route('home') }}">Inicio</a>
                       </li>
                       <li class="separator">&nbsp;</li>
                       <li>
